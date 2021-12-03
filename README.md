@@ -1,2 +1,2 @@
-# cs_2_semester
+# cs_3_semester
 домашки по 3 семестру инфы 
