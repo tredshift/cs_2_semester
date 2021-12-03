@@ -36,7 +36,7 @@ int main() {
         }
         else
         {
-            std::cout << "It's bot even an equation.";
+            std::cout << "It's not even an equation.";
         }
     }
     return 0;
